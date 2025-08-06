@@ -38,18 +38,12 @@ Controlling the robot arm by joint_state_publisher
 
 ros2 launch arduinobot_description display.launch.py
 
-<img width="1208" height="712" alt="Screenshot from 2025-08-04 14-51-06" src="https://github.com/user-attachments/assets/e1139fb6-2d7c-4e3f-8fc2-055ca8f0923a" />
+
+  
+<img width="1208" height="712" alt="Screenshot from 2025-08-06 19-54-06" src="https://github.com/user-attachments/assets/593be3b5-e5a6-4b6f-9dce-a3aad6a18cd4" />
+<img width="1208" height="712" alt="Screenshot from 2025-08-06 20-19-29" src="https://github.com/user-attachments/assets/470bae45-781b-4a07-b52a-fe463808fe28" />
 
 
-<img width="1208" height="712" alt="Screenshot from 2025-08-04 14-51-43" src="https://github.com/user-attachments/assets/ecfaaade-0050-4c76-8f4c-9b7347aec3ba" />
 
 
    
-<img width="1208" height="712" alt="Screenshot from 2025-08-06 19-54-06" src="https://github.com/user-attachments/assets/593be3b5-e5a6-4b6f-9dce-a3aad6a18cd4" />
-
-
-
-
-    
-    Install ROS 2 Humble on your Ubuntu 22.04
-    Install ROS 2 missing libraries. Some libraries that are used in this project are not in the standard ROS package. Install them with:
